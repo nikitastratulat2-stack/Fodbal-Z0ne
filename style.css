@@ -1,0 +1,51 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #222222;
+    margin: 20px;
+}
+
+h1 {
+    color: #008000; /* Verde specific terenului de fotbal */
+    font-size: 40px;
+}
+
+h2 {
+    color: #004aad;
+}
+
+h3 {
+    color: #333333;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: #008000;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
+
+img {
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+hr {
+    border: 1px solid #cccccc;
+    width: 80%;
+}
